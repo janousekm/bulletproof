@@ -9,7 +9,14 @@
 	<packaging>jar</packaging>
 
 	<name>maja-exercise</name>
-	<description>Exercise Martin Janousek</description>
+	<description>Simple CVS updater implemented in Java, Spring Boot and Apache CSV library</description>
+
+	<developers>
+		<developer>
+			<name>Martin Janousek</name>
+			<email>martin.janousek@businessware.cz</email>
+		</developer>
+	</developers>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
